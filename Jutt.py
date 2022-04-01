@@ -1,4 +1,4 @@
-# Decompile by Mardis (Tools By Kapten-Kaizo)
+# Decompile by Mr Jadugar The Gamer
 # Time Succes decompile : 2022-03-30 11:49:51.852889
 import os, sys, time, datetime, re, threading, json, random, requests, hashlib, cookielib, uuid
 from multiprocessing.pool import ThreadPool
