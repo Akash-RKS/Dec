@@ -1,5 +1,5 @@
 # Decompile by Mr Jadugar The Gamer
-# Time Succes decompile : 2022-03-30 11:49:51.852889
+# Dont Play with me bcoz i will fuck you
 import os, sys, time, datetime, re, threading, json, random, requests, hashlib, cookielib, uuid
 from multiprocessing.pool import ThreadPool
 from requests.exceptions import ConnectionError
