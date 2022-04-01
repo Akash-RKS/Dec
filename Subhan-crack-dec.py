@@ -2,7 +2,7 @@
 
 # File: without.pyc (Python 2.7)
 
-#Decompile by Hamid Meer'hamii
+#Decompile by Mr Jadugar The Gamer
 
 try:
 
