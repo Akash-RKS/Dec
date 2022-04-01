@@ -1,4 +1,4 @@
-# Decompile by : Hamid Meer'hamii 
+# Decompile by : Mr Jadugar Gamer
 # Time Succes decompile : 2022-03-26 18:16:47.173597
 #!/usr/bin/python3
 #coding=utf-8
