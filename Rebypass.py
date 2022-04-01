@@ -1,4 +1,4 @@
-#Coding By Hannan
+#Decode by Mr Jadugar Gamer
 #Coding UTF-8
 import os,sys,time,datetime,random,hashlib,re,threading,json,urllib,cookielib,getpass 
 try:
