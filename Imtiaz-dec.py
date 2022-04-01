@@ -1,5 +1,4 @@
-# Decompile by : Hamid Meer'hamii 
-# Time Succes decompile : 2022-03-26 18:16:47.173597
+# Dec by Mr Jadugar The Gamer
 # Source Generated with Decompyle++
 # File: out.pyc (Python 2.7)
 
