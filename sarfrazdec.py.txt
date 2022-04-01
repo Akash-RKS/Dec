@@ -1,4 +1,5 @@
-#-*-coding:utf-8-*-
+#dec by Mr Jadugar The Gamer 
+#Don't play Games with me i can fuck you
 
 import uuid
 import requests,bs4,sys,os,subprocess
