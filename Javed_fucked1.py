@@ -1,4 +1,4 @@
-# Decompile by Mardis (Tools By Kapten-Kaizo)
+# Decompile by MR JADUGAR THE GAMER
 # Time Succes decompile : 2022-04-01 10:40:39.997776
 import os
 try:
