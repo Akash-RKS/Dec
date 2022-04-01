@@ -1,4 +1,4 @@
-# Decompiled By Hamid Meer'hamii
+# Decompile MR JADUGAR THE GAMER
 # Github : https://github.com/RANDIOLOY
 import os, sys, time, datetime, random, hashlib, re, threading, json, getpass, urllib, cookielib
 from multiprocessing.pool import ThreadPool
